@@ -10,6 +10,6 @@ https://cs231n.github.io/python-numpy-tutorial/
 
 评作业参考：
 
-https://github.com/jariasf/CS231n/tree/master/assignment1
-https://github.com/Halfish/cs231n
-https://github.com/lightaime/cs231n
+    https://github.com/jariasf/CS231n/tree/master/assignment1
+    https://github.com/Halfish/cs231n
+    https://github.com/lightaime/cs231n
