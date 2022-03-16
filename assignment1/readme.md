@@ -76,6 +76,12 @@
 
 ​      请下载仓库，并按照原目录结构在本机或colab上编写代码。
 
+## 文件转换
+
+​     在ipynb中做完作业之后，使用jupyter将其保存成html格式（如图示），然后在html文件格式的基础上转换成pdf。将转换的5个pdf文件放入ipynb2pdf目录，运行makepdf.py即可生成提交的assignment文档。
+
+ <img src="img/jupyter.png" width="50%" height="50%">
+
 ## **截止时间：**
 
 ​       2022-04-17 23:59
