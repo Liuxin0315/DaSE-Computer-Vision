@@ -78,7 +78,7 @@
 
 ## 文件转换
 
-​     在colab中做完作业之后下载到，使用本地的jupyter将其保存成html格式（如图示），然后在html文件格式的基础上转换成pdf。
+​     在colab中做完作业之后下载到本地，使用本地的jupyter将其保存成html格式（如图示），然后在html文件格式的基础上转换成pdf。
 
  <img src="img/jupyter.png" width="50%" height="50%">
 
