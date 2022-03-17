@@ -66,7 +66,7 @@
 
 ## **提交格式：**
 
-#####        请将5个ipynb生成5个pdf文件,然后合并成assignment.pdf，打包成zip后上传！
+#####        请将5个ipynb生成5个pdf文件,打包成zip后上传！
 
 ## **提交地址：**
 
@@ -78,7 +78,7 @@
 
 ## 文件转换
 
-​     在ipynb中做完作业之后，使用jupyter将其保存成html格式（如图示），然后在html文件格式的基础上转换成pdf。将转换的5个pdf文件放入ipynb2pdf目录，运行makepdf.py即可生成提交的assignment.pdf文档。
+​     在colab中做完作业之后下载到，使用本地的jupyter将其保存成html格式（如图示），然后在html文件格式的基础上转换成pdf。
 
  <img src="img/jupyter.png" width="50%" height="50%">
 
