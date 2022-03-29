@@ -7,7 +7,7 @@ https://cs231n.github.io/python-numpy-tutorial/
 
 第一次作业
     
-    Assignment1（包含作业说明 简答题和讲解slides）
+    Assignment1（包含作业说明 简答题）
 
 评作业参考：
 
