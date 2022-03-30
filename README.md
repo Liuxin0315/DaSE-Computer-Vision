@@ -9,6 +9,9 @@ https://cs231n.github.io/python-numpy-tutorial/
     
     Assignment1（包含作业说明 简答题）
 
+第二次作业
+    
+    Assignment2（包含作业说明和相关文件）
 评作业参考：
 
     https://github.com/jariasf/CS231n/tree/master/assignment1
