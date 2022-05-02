@@ -22,7 +22,7 @@
 
 ​         Q3：Network Visualization: Saliency Maps, Class Visualization, and Fooling Images
 
-​                  The notebook NetworkVisualization-PyTorch.ipynb或者NetworkVisualization-TensorFlow.ipynb， 你将完成 Saliency Maps, Class Visualization, and Fooling Images 三种图像生成方法。你只需完成其中一个即可。
+​                  The notebook NetworkVisualization-PyTorch.ipynb 或者  NetworkVisualization-TensorFlow.ipynb， 你将完成 Saliency Maps, Class Visualization, and Fooling Images 三种图像生成方法。你只需完成其中一个 notebook 即可。
 
 ​         Q4：Generative Adversarial Networks 
 
@@ -30,7 +30,7 @@
 
 ​         Q5：Style Transfer
 
-​                The StyleTransfer-PyTorch.ipynb 或者 StyleTransfer-TensorFlow.ipynb 你将学习如何使用 Style Transfer 来进行图像生成。你只需完成其中一个即可。
+​                The notebook StyleTransfer-PyTorch.ipynb 或者 StyleTransfer-TensorFlow.ipynb 你将学习如何使用 Style Transfer 来进行图像生成。你只需完成其中一个 notebook 即可。
 
 ## **评分标准：**
 
