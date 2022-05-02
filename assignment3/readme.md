@@ -2,13 +2,13 @@
 
 ## **本次作业目标：**
 
-​	    1）了解并实现 RNN 和 Transformer 网络，并将它们与 CNN 网络结合起来用于image captioning 。	
+​	    1）了解并实现 RNN 和 LSTM 网络，并用于image captioning 。	
 
 ​        2）探索图像梯度的各种应用，包括saliency maps, fooling images, class visualizations。
 
 ​        3）了解如何训练并实现 Generative Adversarial Network（GAN），用来生成类似于数据集样本的图像。
 
-​        4）了解如何利用 self-supervised learning 技术帮助完成图像分类任务。
+​        4）了解如何利用 Style Transfer 技术帮助完成图像生成任务。
 
 ## **本次实验任务内容：**
 
