@@ -20,7 +20,7 @@
 
 ​                 The notebook ConvolutionalNetworks.ipynb，你将学习如何生成与训练数据集匹配的图像，并在对大量未标记数据和少量标记数据进行训练时使用这些模型来提高分类器性能。
 
-​         注：The notebook NetworkVisualization-PyTorch.ipynb  NetworkVisualization-TensorFlow.ipynb  collect_submission.ipynb StyleTransfer-PyTorch.ipynb  StyleTransfer-TensorFlow.ipynb 不需要做！
+​         **注：The notebook NetworkVisualization-PyTorch.ipynb、 NetworkVisualization-TensorFlow.ipynb、  collect_submission.ipynb、 StyleTransfer-PyTorch.ipynb 、StyleTransfer-TensorFlow.ipynb 不需要做！**
 
 ## **评分标准：**
 
