@@ -4,11 +4,7 @@
 
 ​	    1）了解并实现 RNN 和 LSTM 网络，并用于image captioning 。	
 
-​        2）探索图像梯度的各种应用，包括saliency maps, fooling images, class visualizations。
-
-​        3）了解如何训练并实现 Generative Adversarial Network（GAN），用来生成类似于数据集样本的图像。
-
-​        4）了解如何利用 Style Transfer 技术帮助完成图像生成任务。
+​        2）了解如何训练并实现 Generative Adversarial Network（GAN），用来生成类似于数据集样本的图像。
 
 ## **本次实验任务内容：**
 
@@ -20,17 +16,9 @@
 
 ​                 The notebook LSTM_Captioning.ipynb ，你将完成 LSTM 模型的实现，并在COCO数据集上进行 image captioning.
 
-​         Q3：Network Visualization: Saliency Maps, Class Visualization, and Fooling Images
-
-​                  The notebook NetworkVisualization-PyTorch.ipynb 或者  NetworkVisualization-TensorFlow.ipynb， 你将完成 Saliency Maps, Class Visualization, and Fooling Images 三种图像生成方法。你只需完成其中一个 notebook 即可。
-
-​         Q4：Generative Adversarial Networks 
+​         Q3：Generative Adversarial Networks 
 
 ​                 The notebook ConvolutionalNetworks.ipynb，你将学习如何生成与训练数据集匹配的图像，并在对大量未标记数据和少量标记数据进行训练时使用这些模型来提高分类器性能。
-
-​         Q5：Style Transfer
-
-​                The notebook StyleTransfer-PyTorch.ipynb 或者 StyleTransfer-TensorFlow.ipynb 你将学习如何使用 Style Transfer 来进行图像生成。你只需完成其中一个 notebook 即可。
 
 ## **评分标准：**
 
