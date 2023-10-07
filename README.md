@@ -1,5 +1,5 @@
 # DaSE-Computer-Vision
-数据学院2022春季学期CV作业
+数据学院CV作业
 
 Numpy Tutorial
 
